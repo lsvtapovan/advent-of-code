@@ -1,0 +1,7 @@
+# Log files.
+*.log
+
+# Directories.
+.ipynb_checkpoints/
+venv*/
+.vscode/
